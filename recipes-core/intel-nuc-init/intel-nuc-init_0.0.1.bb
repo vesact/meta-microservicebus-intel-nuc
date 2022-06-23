@@ -1,4 +1,4 @@
-inherit systemd
+inherit systemd features_check
 
 SUMMARY = "Install init script for Intel NUC gateway"
 LICENSE = "MIT"
